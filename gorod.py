@@ -1,5 +1,6 @@
 import time
 from selenium import webdriver
+from selenium.common import TimeoutException
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
@@ -23,10 +24,12 @@ class ELibraryScraper:
     def open_proxy_site(self):
         """Открыть прокси-сайт и перейти на гугл через croxyproxy."""
         self.driver.get("https://www.croxyproxy.net/_ru/")
-        # Ждем появления ссылки "Гугл" на странице прокси
+
+            # Ждем появления ссылки "Гугл" на странице прокси с таймаутом 15 секунд
         google_link = self.wait.until(EC.presence_of_element_located((By.XPATH, '//*[@id="quickLinks"]/a[2]')))
         google_link.click()
-        time.sleep(5)
+
+
 
     def handle_consent_dialog(self):
         """Обработать диалог согласия (если присутствует)."""
@@ -113,19 +116,32 @@ class ELibraryScraper:
         """Закрыть браузер после завершения."""
         self.driver.quit()
 
+
+def main_script():
+    while True:
+        try:
+            # Ваш основной код парсинга здесь
+            scraper = ELibraryScraper()
+            scraper.open_proxy_site()
+            scraper.handle_consent_dialog()
+            scraper.search_elibrary()
+            scraper.login_to_elibrary(username="Evanepon", password="LegoEva210877")
+            scraper.search_by_GOROD("links_GOROD.txt")
+        except Exception as e:
+            error_message = str(e)
+            if "Error: Message:" in error_message:
+                print("Обнаружена критическая ошибка. Перезапуск парсера...")
+                quit()
+                continue  # Перезапуск цикла после критической ошибки
+            if "Произошла ошибка:" in error_message:
+                print("Обнаружена критическая ошибка со временем. Перезапуск парсера...")
+                quit()
+                continue
+            else:
+                print(f"Произошла ошибка: {error_message}")
+                quit()
+                continue  # Повторная попытка выполнить цикл
+
+# Вызов функции для выполнения основного скрипта
 if __name__ == "__main__":
-    scraper = ELibraryScraper()
-    try:
-        #открыть через прокси
-        scraper.open_proxy_site()
-        # Обработать диалог согласия (если присутствует)
-        scraper.handle_consent_dialog()
-        # Выполнить поиск elibrary.ru и перейти на сайт
-        scraper.search_elibrary()
-        # Авторизация на сайте elibrary.ru
-        scraper.login_to_elibrary(username="Evanepon", password="LegoEva210877")
-        #поиск
-        scraper.search_by_GOROD("links_GOROD.txt")
-    finally:
-        # Закрыть браузер после завершения
-        scraper.quit()
+    main_script()
