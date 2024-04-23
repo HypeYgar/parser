@@ -60,6 +60,11 @@ class ELibraryScraper:
         login_button = self.wait.until(
             EC.presence_of_element_located((By.XPATH, '//*[@id="win_login"]/table[1]/tbody/tr[9]/td/div[2]')))
         login_button.click()
+        # Нажать на ссылку для поиска по ГОРОДУ
+        search_button = self.wait.until(
+            EC.element_to_be_clickable((By.XPATH, '//*[@id="win_goto"]/table[1]/tbody/tr[6]/td[2]/a')))
+        search_button.click()
+        time.sleep(3)
 
     def search_by_GOROD(self, city_list_file):
         """Выполнить поиск по названиям городов и сохранить информацию в файл."""
@@ -69,12 +74,6 @@ class ELibraryScraper:
                 city_name = city_name.strip()  # Удаляем лишние пробелы и символы новой строки
 
                 try:
-                    # Нажать на ссылку для поиска по ГОРОДУ
-                    search_button = self.wait.until(
-                        EC.element_to_be_clickable((By.XPATH, '//*[@id="win_goto"]/table[1]/tbody/tr[6]/td[2]/a')))
-                    search_button.click()
-                    time.sleep(3)
-
                     # Найти поле ввода и ввести название города
                     input_field = self.wait.until(EC.presence_of_element_located((By.XPATH,
                                                                                   "/html/body/table/tbody/tr/td/table/tbody/tr/td[2]/table/tbody/tr[3]/td/table[1]/tbody/tr/td[2]/input")))
@@ -89,49 +88,115 @@ class ELibraryScraper:
 
                     time.sleep(3)  # Небольшая задержка для загрузки страницы после поиска
 
+                    # Нажать на ссылку для перехода на новую страницу
+                    link_to_click = self.wait.until(EC.element_to_be_clickable((By.XPATH,
+                                                                                '/html/body/table/tbody/tr/td/table/tbody/tr/td[2]/table/tbody/tr[3]/td/table[4]/tbody/tr[2]/td[2]/font/a')))
+                    link_to_click.click()
+
+                    time.sleep(3)
                     # Найти и сохранить нужные элементы в файл
-                    full_name_element = self.wait.until(EC.presence_of_element_located((By.XPATH,
-                                                                                        '/html/body/table/tbody/tr/td/table/tbody/tr/td[2]/table/tbody/tr[3]/td/table[1]/tbody/tr/td[2]/font/b')))
-                    english_name_element = self.wait.until(EC.presence_of_element_located((By.XPATH,
-                                                                                           '/html/body/table/tbody/tr/td/table/tbody/tr/td[2]/table/tbody/tr[3]/td/table[2]/tbody/tr[1]/td[2]/font')))
-                    abbreviation_element = self.wait.until(EC.presence_of_element_located((By.XPATH,
-                                                                                           '/html/body/table/tbody/tr/td/table/tbody/tr/td[2]/table/tbody/tr[3]/td/table[2]/tbody/tr[2]/td[2]/font')))
-                    english_abbreviation_element = self.wait.until(EC.presence_of_element_located((By.XPATH,
-                                                                                                   '/html/body/table/tbody/tr/td/table/tbody/tr/td[2]/table/tbody/tr[3]/td/table[2]/tbody/tr[2]/td[4]/font')))
-                    country_element = self.wait.until(EC.presence_of_element_located((By.XPATH,
-                                                                                      '/html/body/table/tbody/tr/td/table/tbody/tr/td[2]/table/tbody/tr[3]/td/table[3]/tbody/tr[1]/td[2]/font/a')))
-                    city_element = self.wait.until(EC.presence_of_element_located((By.XPATH,
-                                                                                   '/html/body/table/tbody/tr/td/table/tbody/tr/td[2]/table/tbody/tr[3]/td/table[3]/tbody/tr[2]/td[2]/font/a')))
-                    address_element = self.wait.until(EC.presence_of_element_located((By.XPATH,
-                                                                                      '/html/body/table/tbody/tr/td/table/tbody/tr/td[2]/table/tbody/tr[3]/td/table[4]/tbody/tr[1]/td[1]/font')))
 
-
-
-
-
-
-                    # Получить текст из элементов
-                    full_name = full_name_element.text.strip()
-                    english_name = english_name_element.text.strip()
-                    abbreviation = abbreviation_element.text.strip()
-                    english_abbreviation = english_abbreviation_element.text.strip()
-                    country = country_element.text.strip()
-                    city = city_element.text.strip()
-                    address = address_element.text.strip()
-
-                    # Записать информацию в файл
                     with open('city_info.txt', 'a', encoding='utf-8') as info_file:
-                        info_file.write(f"Название города: {full_name}\n")
-                        info_file.write(f"Название на английском: {english_name}\n")
-                        info_file.write(f"Сокращение: {abbreviation}\n")
-                        info_file.write(f"Сокращение на английском: {english_abbreviation}\n")
-                        info_file.write(f"Страна: {country}\n")
-                        info_file.write(f"Город: {city}\n")
-                        info_file.write(f"Почтовый адрес: {address}\n\n")
+                        info_file.write(f"Город: {city_name}\n")
+
+                        # Проверяем и сохраняем полное название
+                        full_name_element = None
+                        try:
+                            full_name_element = self.wait.until(EC.presence_of_element_located((By.XPATH,
+                                                                                                '/html/body/table/tbody/tr/td/table/tbody/tr/td[2]/table/tbody/tr[3]/td/table[1]/tbody/tr/td[2]/font/b')))
+                        except:
+                            pass
+
+                        if full_name_element:
+                            full_name = full_name_element.text.strip()
+                            info_file.write(f"Полное название: {full_name}\n")
+                            print(full_name)
+
+                        # Проверяем и сохраняем название на английском
+                        english_name_element = None
+                        try:
+                            english_name_element = self.wait.until(EC.presence_of_element_located((By.XPATH,
+                                                                                                   '/html/body/table/tbody/tr/td/table/tbody/tr/td[2]/table/tbody/tr[3]/td/table[2]/tbody/tr[1]/td[2]/font')))
+                        except:
+                            pass
+
+                        if english_name_element:
+                            english_name = english_name_element.text.strip()
+                            info_file.write(f"Название на английском: {english_name}\n")
+                            print(english_name)
+
+                        # Проверяем и сохраняем сокращение
+                        abbreviation_element = None
+                        try:
+                            abbreviation_element = self.wait.until(EC.presence_of_element_located((By.XPATH,
+                                                                                                   '/html/body/table/tbody/tr/td/table/tbody/tr/td[2]/table/tbody/tr[3]/td/table[2]/tbody/tr[2]/td[2]/font')))
+                        except:
+                            pass
+
+                        if abbreviation_element:
+                            abbreviation = abbreviation_element.text.strip()
+                            info_file.write(f"Сокращение: {abbreviation}\n")
+                            print(abbreviation)
+
+                        # Проверяем и сохраняем сокращение на английском
+                        english_abbreviation_element = None
+                        try:
+                            english_abbreviation_element = self.wait.until(EC.presence_of_element_located((By.XPATH,
+                                                                                                           '/html/body/table/tbody/tr/td/table/tbody/tr/td[2]/table/tbody/tr[3]/td/table/tbody/tr[2]/td[4]/font')))
+                        except:
+                            pass
+
+                        if english_abbreviation_element:
+                            english_abbreviation = english_abbreviation_element.text.strip()
+                            info_file.write(f"Сокращение на английском: {english_abbreviation}\n")
+                            print(english_abbreviation)
+
+                        # Проверяем и сохраняем страну
+                        country_element = None
+                        try:
+                            country_element = self.wait.until(EC.presence_of_element_located((By.XPATH,
+                                                                                              '/html/body/table/tbody/tr/td/table/tbody/tr/td[2]/table/tbody/tr[3]/td/table/tbody/tr[1]/td[2]/font/a')))
+                        except:
+                            pass
+
+                        if country_element:
+                            country = country_element.text.strip()
+                            info_file.write(f"Страна: {country}\n")
+                            print(country)
+
+                        # Проверяем и сохраняем город
+                        city_element = None
+                        try:
+                            city_element = self.wait.until(EC.presence_of_element_located((By.XPATH,
+                                                                                           '/html/body/table/tbody/tr/td/table/tbody/tr/td[2]/table/tbody/tr[3]/td/table/tbody/tr[2]/td[2]/font/a')))
+                        except:
+                            pass
+
+                        if city_element:
+                            city = city_element.text.strip()
+                            info_file.write(f"Город: {city}\n")
+                            print(city)
+
+                        # Проверяем и сохраняем почтовый адрес
+                        address_element = None
+                        try:
+                            address_element = self.wait.until(EC.presence_of_element_located((By.XPATH,
+                                                                                              '/html/body/table/tbody/tr/td/table/tbody/tr/td[2]/table/tbody/tr[3]/td/table[4]/tbody/tr[1]/td[2]/font')))
+                        except:
+                            pass
+
+                        if address_element:
+                            address = address_element.text.strip()
+                            info_file.write(f"Почтовый адрес: {address}\n\n")
+                            print(address)
+
+                            # Нажать на ссылку для перехода на новую страницу
+                        link_to_click = self.wait.until(EC.element_to_be_clickable((By.XPATH,
+                                                                                    '/html/body/table/tbody/tr/td/table/tbody/tr/td[1]/table/tbody/tr[6]/td/div/table/tbody/tr/td/table/tbody/tr[6]/td[1]/a')))
+                        link_to_click.click()
 
                 except Exception as e:
                     print(f"Ошибка при обработке города '{city_name}': {e}")
-
 
     def quit(self):
         """Закрыть браузер после завершения."""
@@ -145,7 +210,7 @@ def main_script():
             scraper.handle_consent_dialog()
             scraper.search_elibrary()
             scraper.login_to_elibrary(username="Evanepon", password="LegoEva210877")
-            scraper.search_by_GOROD("links_GOROD.txt")
+            scraper.search_by_GOROD("kaif.txt")
         except Exception as e:
             error_message = str(e)
 
