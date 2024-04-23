@@ -68,10 +68,22 @@ class ELibraryScraper:
 
     def search_by_GOROD(self, city_list_file):
         """Выполнить поиск по названиям городов и сохранить информацию в файл."""
+        last_processed_line_file = 'last_processed_line.txt'  # Файл для сохранения номера последней обработанной строки
+
+        # Загрузить номер последней обработанной строки, если такой файл существует
+        last_processed_line = 0
+        try:
+            with open(last_processed_line_file, 'r') as f:
+                last_processed_line = int(f.read().strip())
+        except FileNotFoundError:
+            pass
+        except ValueError:
+            print("Ошибка чтения файла last_processed_line.txt. Начинаем с начала списка.")
+
         with open(city_list_file, 'r', encoding='utf-8') as file:
             lines = file.readlines()  # Читаем строки из файла
-            for city_name in lines:
-                city_name = city_name.strip()  # Удаляем лишние пробелы и символы новой строки
+            for i in range(last_processed_line, len(lines)):
+                city_name = lines[i].strip()  # Удаляем лишние пробелы и символы новой строки
 
                 try:
                     # Найти поле ввода и ввести название города
@@ -190,7 +202,11 @@ class ELibraryScraper:
                             info_file.write(f"Почтовый адрес: {address}\n\n")
                             print(address)
 
-                            # Нажать на ссылку для перехода на новую страницу
+                        # Сохранить номер строки, с которой начнется следующий запуск
+                        with open(last_processed_line_file, 'w') as f:
+                            f.write(str(i + 1))  # Записываем номер следующей строки
+
+                        # Нажать на ссылку для перехода на новую страницу
                         link_to_click = self.wait.until(EC.element_to_be_clickable((By.XPATH,
                                                                                     '/html/body/table/tbody/tr/td/table/tbody/tr/td[1]/table/tbody/tr[6]/td/div/table/tbody/tr/td/table/tbody/tr[6]/td[1]/a')))
                         link_to_click.click()
