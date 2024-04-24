@@ -1,3 +1,1483 @@
+<a href="https://51.159.195.89/org_about.asp?orgsid=14504&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=14504">
+"East West" Association for Advanced Studies and Higher Education GmbH</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=19668&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=19668">
+"Авангард" г. Кемерово</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=18098&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=18098">
+"Академия информатизации образования" по Ленинградской области</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17954&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17954">
+"Академия талантов" Санкт-Петербурга</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=15651&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=15651">
+"Академия" Российского союза офицеров запаса</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17839&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17839">
+"Алтайский ботанический сад" Комитета науки Минобразования и науки Республики Казахстан</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17952&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17952">
+"Библиотечно-информационная система" г. Нижневартовск</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=18991&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=18991">
+"Благотворительный фонд Центра охраны здоровья шахтеров"</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=19797&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=19797">
+"Городской клинический центр» Министерства здравоохранения Чувашской Республики</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=15594&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=15594">
+"Дом-музей В.И. Ленина" городского округа город Уфа Республики Башкортостан</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=18419&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=18419">
+"Инженерно-технологическая школа №777" Санкт-Петербурга</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=18113&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=18113">
+"Институт водных проблем и экологии" Республики Казахстан</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=16715&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=16715">
+"Информационно-методический центр" Петроградского района Санкт-Петербурга</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17936&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17936">
+"Информационно-методический центр" Приморского района Санкт-Петербурга</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=18714&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=18714">
+"Научен хронограф" ЕООД</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=15271&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=15271">
+"Научно-исследовательский центр по проблемам отраслевого машиноведения" при Ташкентском государственном техническом университете</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=19508&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=19508">
+"Национальный архив" Республики Хакасия</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=15291&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=15291">
+"Национальный центр технологического прогнозирования" Комитета индустриального развития и промышленной безопасности Министерства по инвестициям и развитию Республики Казахстан</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=18464&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=18464">
+"Противочумный центр" Роспотребнадзора</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=18183&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=18183">
+"Республиканское бюро судебно-медицинской экспертизы" Минздрава Чувашии</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=15498&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=15498">
+"Русское географическое общество" Забайкальское отделение</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=18947&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=18947">
+"Русское географическое общество" Краснодарское отделение</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17158&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17158">
+"Училище олимпийского резерва" Республики Марий Эл</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=18469&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=18469">
+"Хабаровская противочумная станция" Роспотребнадзора</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=18642&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=18642">
+"Центр помощи детям" Ярославской области</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=18102&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=18102">
+"Централизованная библиотечная система" г. Бердск</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=4621&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=4621">
+12-й Центральный научно-исследовательский институт Министерства обороны РФ</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=7444&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=7444">
+15-я городская клиническая больница им. О.М. Филатова</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=7445&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=7445">
+16-й Центральный научно-исследовательский испытательный институт им. А.И. Белова Министерства обороны РФ</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=10931&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=10931">
+18 Центральный научно-исследовательский институт</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=4818&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=4818">
+21-й Научно-исследовательский испытательный институт Министерства обороны РФ</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=4003&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=4003">
+22-й Центральный научно-исследовательский институт Министерства обороны РФ</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=7447&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=7447">
+24-й Центральный научно-исследовательский институт Министерства обороны РФ</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=4820&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=4820">
+25-й Государственный научно-исследовательский институт химмотологии Министерства обороны РФ</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=12079&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=12079">
+27 Научный центр МО РФ</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=4004&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=4004">
+27-й Центральный научно-исследовательский институт Министерства обороны РФ</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=2824&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=2824">
+29-й Научно-исследовательский институт Министерства обороны РФ</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=7446&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=7446">
+2-й Центральный научно-исследовательский институт Министерства обороны РФ</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=7448&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=7448">
+301-й окружной военный клинический госпиталь дальневосточного военного округа Министерства обороны РФ</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=13761&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=13761">
+33-й Центральный научно-исследовательский испытательный институт Министерства обороны РФ</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=7450&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=7450">
+354-й окружной военный клинический госпиталь</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=2529&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=2529">
+3-й Центральный научно-исследовательский институт Министерства обороны РФ</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17046&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17046">
+3-я городская клиническая больница им. Е.В. Клумова</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=16811&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=16811">
+432 ордена Красной Звезды главный военный клинический медицинский центр Вооруженных Сил Республики Беларусь</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=4844&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=4844">
+46-й Центральный научно-исследовательский институт Министерства обороны РФ</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=13763&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=13763">
+48-й Центральный научно-исследовательский институт Министерства обороны РФ</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=4772&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=4772">
+4-й Центральный научно-исследовательский институт Министерства обороны РФ</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17047&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17047">
+4-я городская клиническая больница им. Н.Е. Савченко</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=4845&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=4845">
+5-й Центральный научно-исследовательский испытательный институт Министерства обороны РФ</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=7452&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=7452">
+9-я городская клиническая больница</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17369&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17369">
+Academia Sinica</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=18343&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=18343">
+Academy of Public Administration (Chisinau)</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=15058&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=15058">
+Academy of Social-public research &amp; technologies</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=19736&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=19736">
+AGH University of Science and Technology</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=19634&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=19634">
+Aix-Marseille Universite</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=15422&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=15422">
+Alikhan Bokeikhan University</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=16778&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=16778">
+Alma Mater Studiorum - Universita di Bologna - Biblioteca Centrale Roberto Ruffilli - Campus di Forli</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=19216&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=19216">
+Al-Zahra University</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=18777&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=18777">
+Amazon Kindle Direct Publishing</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=18502&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=18502">
+Archiepiscopal Diocesan and Cathedral Library Cologne</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17321&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17321">
+Argonne National Laboratory</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=18289&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=18289">
+Ariadna Ediciones</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=19777&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=19777">
+Aristotle University of Thessaloniki</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17249&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17249">
+Arizona State University</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=19360&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=19360">
+Association of Russianists of Slovakia</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=18627&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=18627">
+Astana IT University</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=19563&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=19563">
+Aus Publishers</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=19679&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=19679">
+Autofast Publisher</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=19765&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=19765">
+Autonomous University of Madrid</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=1120&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=1120">
+Baltijos visuomeninis informaciniu technologiju ir svietimo centras</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=7211&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=7211">
+Bank of Finland</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=13711&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=13711">
+Bar-Ilan University</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=19643&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=19643">
+Baylor University</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=19847&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=19847">
+Beihang University</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17915&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17915">
+Beijing Institute of Technology</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=19650&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=19650">
+Benemerita Universidad Autonoma de Puebla</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=13710&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=13710">
+Ben-Gurion University of the Negev</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=19681&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=19681">
+Bhabha Atomic Research Centre</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17134&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17134">
+Bibliotheque universitaire des langues et civilisations</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=18504&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=18504">
+Bilkent University</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=19689&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=19689">
+Bogazici University</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17206&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17206">
+Boston University</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=18503&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=18503">
+British Library</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17331&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17331">
+Brookhaven National Laboratory</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17265&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17265">
+Brown University</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17268&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17268">
+Brunel University</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=19796&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=19796">
+Bulgarian Diplomatic Institute</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17214&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17214">
+California Institute of Technology</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17394&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17394">
+Canadian National Laboratory For Particle and Nuclear Physics and Accelerator-Based Science</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17303&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17303">
+Carnegie Mellon University</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=15048&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=15048">
+Catholic University of Leuven</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=19697&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=19697">
+Catholic University of Louvain</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=1226&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=1226">
+Center for Physical Sciences and Technology</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=20143&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=20143">
+Central Asian Medical University</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=19929&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=19929">
+Central Asian Research Journal for Interdisciplinary Studies</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=19611&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=19611">
+Central European University</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17744&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17744">
+Central Glass &amp; Ceramic Research Institute</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=15072&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=15072">
+Centre for European Reforms Studies</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17365&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17365">
+Centro Brasileiro de Pesquisas Fisicas</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=19637&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=19637">
+Centro de Investigaciones Energeticas Medioambientales y Tecnologicas</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=14564&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=14564">
+Cherkas Global University</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=20412&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=20412">
+Chinese Military Research Institute</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=1166&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=1166">
+Chulalongkorn University</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=18622&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=18622">
+Cicshal Religacion Research Center in Social Sciences and Humanities from Latin America</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=8480&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=8480">
+CIM College d.o.o</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17895&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17895">
+Collaborative Innovation Center of Quantum Matter</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17280&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17280">
+Colorado State University</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17370&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17370">
+Columbia University in the City of New York</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17297&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17297">
+Cornell University</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17654&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17654">
+Cranfield University</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=15132&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=15132">
+CrossRef</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=19639&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=19639">
+Czech Technical University in Prague</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=14721&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=14721">
+Cтроительное научно-техническое малое предприятие Экологические Защитные Изоляционные Покрытия</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=18507&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=18507">
+Dartmouth College</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17636&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17636">
+De Montfort University</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17211&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17211">
+Department of Physics University of Helsinki</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17314&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17314">
+Deutsches Elektronen-Synchrotron</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17254&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17254">
+Duke University</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=14490&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=14490">
+D-Wave Systems Inc.</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=1252&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=1252">
+Eastern Europe Department of Berlin State Library</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=789&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=789">
+Eesti Slavistika Instituut</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=13799&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=13799">
+Electric Power Research Institute</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17759&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17759">
+Electrochemical Society</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=20030&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=20030">
+EurAsian Scientific Editions</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17204&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17204">
+European Synchrotron Radiation Facility</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=5699&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=5699">
+Federal Administration of Property Central Library</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=13605&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=13605">
+Federal University of Juiz de Fora</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17310&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17310">
+Fermi National Accelerator Laboratory</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=19723&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=19723">
+Florida Institute of Technology</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17271&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17271">
+Florida International University</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17342&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17342">
+Florida State University</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=13811&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=13811">
+Forest Research Institute</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=20483&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=20483">
+Freyr Life Sciences GmbH</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=19695&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=19695">
+Ghent University</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17363&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17363">
+Goddard Space Flight Center</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=14649&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=14649">
+Golden Mile GmbH</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17133&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17133">
+Gottingen State and University Library</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17347&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17347">
+Graduate School of Chinese Academy of Sciences</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17898&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17898">
+Grenoble Alps University</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17776&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17776">
+GSP-Project Ltd</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=19764&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=19764">
+Hanyang University</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17299&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17299">
+Harbin Institute of Technology</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17344&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17344">
+Harvard Medical School</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=13708&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=13708">
+Hebrew University of Jerusalem</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=20128&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=20128">
+Heihe University</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=19665&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=19665">
+Helsinki Institute of Physics</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17372&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17372">
+High Energy Accelerator Research Organization</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=19647&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=19647">
+Horia Hulubei National Institute of Physics and Nuclear Engineering</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17902&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17902">
+Huazhong University of Science and Technology</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=20851&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=20851">
+Hungarian University of Agriculture and Life Sciences</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=13992&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=13992">
+Hаучно-исследовательская тестовая организация</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=19694&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=19694">
+Ibero-American University</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17903&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17903">
+Ikerbasque-Basque Foundation for Science</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17293&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17293">
+Imperial College</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=19843&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=19843">
+Indian Institute of Technology Madras</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=13770&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=13770">
+Indiana University</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17376&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17376">
+Institucio Catalana Recerca i Estudis Avancats</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17343&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17343">
+Institut Laue-Langevin</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=19845&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=19845">
+Institut Ruder Boskovic</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=1124&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=1124">
+Institute for Advanced Study</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=13812&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=13812">
+Institute for Applied Chemistry Berlin-Adlershof</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=19249&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=19249">
+Institute for East European Law</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=19628&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=19628">
+Institute for Nuclear Research Pitesti</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=18414&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=18414">
+Institute for Peace Research and Security Policy at the University of Hamburg</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=13794&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=13794">
+Institute for Semiconductor Physics</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=19664&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=19664">
+Institute of Art Studies Bulgarian Academy of Sciences</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=13790&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=13790">
+Institute of Chemistry of Center for Physical Science and Technology</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=18497&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=18497">
+Institute of Economic Development and Social Researches</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17330&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17330">
+Institute of Electrical and Electronics Engineers</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=13734&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=13734">
+Institute of High Energy Physics Austria Academy Sciences</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17390&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17390">
+Institute of High Energy Physics Chinese Academy Sciences</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=19748&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=19748">
+Institute of History Belgrade</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=13801&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=13801">
+Institute of Mathematics of Vietnam Academy of Science and Technology</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=18724&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=18724">
+Institute of National Remembrance</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=13797&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=13797">
+Institute of Oncology</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=18176&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=18176">
+Institute of Physics Belgrade</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17328&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17328">
+Institute of Physics Chinese Academy of Sciences</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=13740&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=13740">
+Institute of Physics Zagreb</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=13738&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=13738">
+Institute of Physics, Bhubaneswar</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=13807&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=13807">
+Institute of Rheumatology</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=13805&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=13805">
+Institute of Rheumatology, Warsaw</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17243&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17243">
+Instituto de Astrofisica de Canarias</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=8039&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=8039">
+Instituto Superior Tecnico</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=19344&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=19344">
+International Business School</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=19210&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=19210">
+International Hellenic University</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17298&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17298">
+International Medical Equipment Collaborative</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=19902&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=19902">
+International Meetings and Conferences Research Association</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17220&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17220">
+Iowa State University</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=13793&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=13793">
+Isaac Newton Institute of Chilean Ministry of Education</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=19213&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=19213">
+Istinye University</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17396&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17396">
+Istituto Nazionale di Fisica Nucleare Laboratori Nazionali di Frascati</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=19632&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=19632">
+Istituto Nazionale di Fisica Nucleare Sezione di Bari</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17261&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17261">
+Istituto Nazionale di Fisica Nucleare Sezione di Bologna</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=19649&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=19649">
+Istituto Nazionale di Fisica Nucleare Sezione di Catania</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=19662&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=19662">
+Istituto Nazionale di Fisica Nucleare Sezione di Firenze</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17234&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17234">
+Istituto Nazionale di Fisica Nucleare Sezione di Genova</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=19840&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=19840">
+Istituto Nazionale di Fisica Nucleare Sezione di Lecce</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17323&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17323">
+Istituto Nazionale di Fisica Nucleare Sezione di Milano</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17230&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17230">
+Istituto Nazionale di Fisica Nucleare Sezione di Napoli</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=19645&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=19645">
+Istituto Nazionale di Fisica Nucleare Sezione di Perugia</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17238&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17238">
+Istituto Nazionale di Fisica Nucleare Sezione di Pisa</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17319&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17319">
+Istituto Nazionale di Fisica Nucleare Sezione di Roma</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17313&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17313">
+Istituto Nazionale di Fisica Nucleare Sezione di Torino</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17327&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17327">
+Istituto Nazionale di Fisica Nucleare Sezione di Trieste</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17375&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17375">
+Istituto Nazionale di Fisica Nucleare-Sezione di Padova</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17352&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17352">
+Istituto Nazionale di Fisica Nucleare-Sezione di Pavia</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=6521&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=6521">
+ITSC Library</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17302&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17302">
+Japan Atomic Energy Agency</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17371&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17371">
+Johannes Gutenberg University of Mainz</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17295&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17295">
+Johns Hopkins University</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17286&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17286">
+Jozef Stefan Institute</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17277&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17277">
+Kansas State University</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17901&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17901">
+King's College London</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=18500&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=18500">
+Koninklijke Philips N.V.</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17281&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17281">
+Korea University</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=19923&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=19923">
+Korean Scientific Society</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17219&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17219">
+Kyoto University</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17345&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17345">
+Kyungpook National University</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=19733&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=19733">
+Lancaster University</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=14811&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=14811">
+Lappeenranta University of Technology</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17356&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17356">
+Lawrence Berkeley National Laboratory</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17346&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17346">
+Lawrence Livermore National Laboratory</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=21112&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=21112">
+Leibniz-Institut fur Kristallzuchtung</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=18149&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=18149">
+Library of the University of Innsbruck</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=1065&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=1065">
+Lietuvos zemes ukio konsultavimo tarnyba</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=13802&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=13802">
+Lithuanian University of Health Sciences</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17203&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17203">
+Los Alamos National Laboratory</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=19642&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=19642">
+Louisiana Tech University</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=18865&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=18865">
+Lund University</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17562&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17562">
+Magnolithe GmbH</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17274&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17274">
+Massachusetts Institute of Technology</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17266&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17266">
+Max Planck Institut Radioastronomie</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17349&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17349">
+Max Planck Institute for Astrophysics</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=21101&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=21101">
+Max Planck Institute for Biogeochemistry</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17278&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17278">
+Max Planck Institute for Nuclear Physics</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17325&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17325">
+Max Planck Institute for Physics</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17353&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17353">
+Max Planck Institute for Solid State Research</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17291&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17291">
+Max Planck Institute of Quantum Optics</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17240&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17240">
+McGill University</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17720&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17720">
+Mehran University of Engineering and Technology</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17333&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17333">
+Michigan State University</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=13806&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=13806">
+Military Medical Academy</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=20590&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=20590">
+MIPP International</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17335&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17335">
+MSU Department of Physics and Astronomy</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=19635&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=19635">
+Nagasaki Institute of Applied Science</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17354&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17354">
+Nagoya University</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=1230&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=1230">
+Nankai University</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=18035&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=18035">
+Nantes School of Mines</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17941&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17941">
+Nantes-Atlantic National College of Veterinary Medicine, Food Science and Engineering</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=1062&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=1062">
+Nanyang Technological University</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=5518&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=5518">
+National Autonomous University of Mexico</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17912&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17912">
+National Center for Nuclear Research</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=19633&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=19633">
+National Central University</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17373&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17373">
+National Institute Fusion for Science</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17258&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17258">
+National Institute Materials Science</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17322&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17322">
+National Institute of Advanced Industrial Science and Technology</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17368&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17368">
+National Institute of Standards and Technology</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=6561&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=6561">
+National Library of Medicine</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17290&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17290">
+National Radio Astronomy Observatory</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=18509&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=18509">
+National Research Council Canada</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17239&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17239">
+National Taiwan University</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17241&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17241">
+Naval Research Laboratory</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17374&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17374">
+New York University</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=6763&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=6763">
+Norges Teknisk-Naturvitenskapelige Universitet</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17288&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17288">
+Northeastern University</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17324&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17324">
+Northwestern University</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17361&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17361">
+Oak Ridge National Laboratory</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17308&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17308">
+Ohio State University</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=6866&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=6866">
+OOO "Inform-Pochta"</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=15632&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=15632">
+OOO "Алтайский зоологический центр"</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=20824&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=20824">
+OOO "Издательство Магистр"</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=18463&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=18463">
+OOO "К-Скай"</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=21119&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=21119">
+OOO "Прогресс Книга"</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=18390&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=18390">
+OOO "Школа профессора Юцковской"</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=18684&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=18684">
+OOO"Школьная пресса"</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=19609&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=19609">
+Open European Academy of Public Sciences OU</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17584&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17584">
+Oregon Health &amp; Science University</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17585&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17585">
+Oregon State University</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=19655&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=19655">
+Osaka City University</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17338&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17338">
+Pacific Northwest National Laboratory</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=19247&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=19247">
+Pan-European University Apeiron</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17263&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17263">
+Panjab University</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=13804&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=13804">
+Partners In Health</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=19844&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=19844">
+Peking University</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17316&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17316">
+Pennsylvania State University</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17897&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17897">
+Perimeter Institute for Theoretical Physics</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17137&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17137">
+PetroChina Company</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17248&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17248">
+Physics Department Brookhaven National Laboratory</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17888&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17888">
+Polymate Ltd.-Международный исследовательский центр в области нанотехнологии</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=19996&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=19996">
+Pontificio Istituto Orientale</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17969&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17969">
+Primevigilance Limited</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17357&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17357">
+Princeton University</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=18769&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=18769">
+Private Entrepreneur "Anisiia Tomanek"</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=1076&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=1076">
+Proxima Technology</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=18782&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=18782">
+Publishing House "Science and Innovation Center"</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17348&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17348">
+Purdue University</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=7357&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=7357">
+Qualcomm Incorporated</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17914&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17914">
+Queen's University at Kingston</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17837&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17837">
+Radboud University Nijmegen</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=20129&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=20129">
+Research Institute of Exploration and Development</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17715&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17715">
+Robert Kennedy College</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=19774&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=19774">
+Royal Holloway, University of London</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17364&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17364">
+Rutgers, The State University of New Jersey</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17367&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17367">
+Rutherford Appleton Laboratory</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=19779&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=19779">
+RWTH Aachen University</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17320&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17320">
+Saha Institute of Nuclear Physics</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17">
+Samsung Electronics Co., Ltd</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17386&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17386">
+Sandia National Laboratories</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17245&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17245">
+School Physics Astronomy University Southampton</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=19262&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=19262">
+Science and education LLC</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=19952&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=19952">
+SCIENCEPROBLEMS</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=18748&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=18748">
+Scientific Publishing House Centre Sociological Research</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=18749&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=18749">
+Scientific Publishing House SciView</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=18851&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=18851">
+SciPub.de</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=19727&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=19727">
+Scuola Normale Superiore</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17237&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17237">
+Seoul National University</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=1182&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=1182">
+Shanxi University</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=5846&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=5846">
+Shell Exploration and Production</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=20890&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=20890">
+Shenyang Saiya Rubber Products Co.</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=19269&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=19269">
+Shenzhen MSU-BIT University</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=18778&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=18778">
+Silesian University of Technology</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=19762&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=19762">
+Simon Fraser University</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17252&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17252">
+SLAC National Accelerator Laboratory</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=19887&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=19887">
+Society for History and Cultural Development of Lower Dniester "Oium"</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=2543&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=2543">
+SolidWorks Russia</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17257&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17257">
+Southwest Minnesota State University</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17339&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17339">
+Space Telescope Science Institute</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17916&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17916">
+SPIE-the International Society for Optics and Photonics</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=19819&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=19819">
+Spikey U ltd</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=19329&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=19329">
+Ss. Cyril and Methodius University</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17273&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17273">
+Stanford University</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=19924&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=19924">
+State Committee on Religious Associations of the Republic of Azerbaijan</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=19698&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=19698">
+State University of New York</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=13832&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=13832">
+STATOIL</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=7212&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=7212">
+Stockholm University</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17287&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17287">
+Sungkyunkwan University</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17285&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17285">
+Syracuse University</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17311&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17311">
+Tata Institute of Fundamental Research</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=21102&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=21102">
+Technical University of Denmark</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=13709&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=13709">
+Technion-Israel Institute of Technology</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17283&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17283">
+Texas A and M University</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17276&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17276">
+Texas Tech University</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=13800&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=13800">
+The Cardinal Stefan Wyszynski Institute of Cardiology</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17518&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17518">
+The Hong Kong Polytechnic University</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=13803&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=13803">
+The Institute of Immunology Inc.</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=13808&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=13808">
+The Institute of Molecular Medicine</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=13798&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=13798">
+The Mental Health Research Institute</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=6580&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=6580">
+The National Library of Finland</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17229&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17229">
+The Paul Scherrer Institute</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=13791&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=13791">
+The Petroleum Institute</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=19767&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=19767">
+The State University of New York at Buffalo</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=19737&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=19737">
+The University of Auckland</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17358&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17358">
+The University of Tennessee</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17304&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17304">
+Tohoku University</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17334&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17334">
+Tokyo Institute of Technology</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=20484&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=20484">
+TransPerfect</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=19722&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=19722">
+Tsinghua University</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=20098&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=20098">
+Tuculart Scientific Holding</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=20385&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=20385">
+Turan International University</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=19626&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=19626">
+Umidli yoshlar</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17378&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17378">
+United States Geological Survey</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=19636&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=19636">
+Universidad de los Andes</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17383&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17383">
+Universidade de Sao Paulo</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=19644&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=19644">
+Universidade do Estado do Rio de Janeiro</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=19652&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=19652">
+Universidade Federal do ABC</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=19651&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=19651">
+Universita degli Studi della Basilicata</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=19661&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=19661">
+Universita degli Studi di Bari Aldo Moro</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17513&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17513">
+Universita degli Studi di Messina</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17184&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17184">
+Universita degli Studi di Milano</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=19657&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=19657">
+Universita degli Studi Milano-Bicocca</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=19656&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=19656">
+Universita di Bologna</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=19646&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=19646">
+Universita di Pisa</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=19658&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=19658">
+Universite libre de Bruxelles</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=18506&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=18506">
+Universities and State Library Muenster</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=19641&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=19641">
+University College Dublin</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17213&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17213">
+University College London</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=13681&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=13681">
+University of Alberta</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=18505&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=18505">
+University of Alicante</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=19728&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=19728">
+University of Antwerpen</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17306&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17306">
+University of Arizona</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=18363&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=18363">
+University of Bern</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17318&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17318">
+University of Birmingham</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=18475&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=18475">
+University of Bonn</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17221&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17221">
+University of Bristol</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=14163&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=14163">
+University of British Columbia</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17242&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17242">
+University of California</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=19286&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=19286">
+University of California Los Angeles</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=19663&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=19663">
+University of California Riverside</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=13733&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=13733">
+University of Cambridge</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=19776&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=19776">
+University of Canterbury</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17246&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17246">
+University of Chicago</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17202&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17202">
+University of Chinese Academy of Sciences</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17336&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17336">
+University of Cincinnati</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17208&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17208">
+University of Colorado</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17326&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17326">
+University of Copenhagen</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=19680&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=19680">
+University of Cyprus</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=19768&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=19768">
+University of Delhi</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=14418&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=14418">
+University of Economics in Katowice</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17244&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17244">
+University of Edinburgh</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=19732&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=19732">
+University of Florence</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17226&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17226">
+University of Florida</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=19730&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=19730">
+University of Geneva</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=19696&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=19696">
+University of Genoa</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17292&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17292">
+University of Georgia</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=19534&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=19534">
+University Of Glasgow</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17521&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17521">
+University of Greifswald</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=13678&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=13678">
+University of Haifa</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=19640&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=19640">
+University of Hamburg</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=19625&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=19625">
+University of Heidelberg</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17275&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17275">
+University of Illinois</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=19724&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=19724">
+University of Ioannina</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17294&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17294">
+University of Iowa</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=3267&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=3267">
+University of Latvia</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17207&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17207">
+University of Liverpool</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17517&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17517">
+University of Lubeck</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17216&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17216">
+University of Manchester</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17921&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17921">
+University of Maryland Baltimore County</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=19684&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=19684">
+University of Massachusetts</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17315&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17315">
+University of Melbourne</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17317&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17317">
+University of Michigan</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17381&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17381">
+University of Minnesota</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17259&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17259">
+University of Mississippi</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=19538&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=19538">
+University of Montenegro</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=19778&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=19778">
+University of Nebraska–Lincoln</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17270&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17270">
+University of New Mexico</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17305&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17305">
+University of Notre Dame</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17379&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17379">
+University of Nottingham</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17269&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17269">
+University of Oregon</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17201&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17201">
+University of Oxford</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=19688&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=19688">
+University of Padua</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=19734&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=19734">
+University of Perugia</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17340&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17340">
+University of Pittsburgh</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=19729&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=19729">
+University of Puerto Rico</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17355&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17355">
+University of Rochester</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=19685&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=19685">
+University of Rome Tor Vergata</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17256&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17256">
+University of Science Technology of China</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17312&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17312">
+University of Sheffield</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17267&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17267">
+University of South Carolina</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=1301&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=1301">
+University of Split</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=19766&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=19766">
+University of Sussex</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17307&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17307">
+University of Sydney</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17928&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17928">
+University of Tehran</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17262&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17262">
+University of Texas at Austin</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=19763&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=19763">
+University of the Witwatersrand</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17260&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17260">
+University of Tokyo</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17218&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17218">
+University of Toronto</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=7106&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=7106">
+University of Troms</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17351&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17351">
+University of Tsukuba</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=18094&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=18094">
+University of Turin</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=19977&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=19977">
+University of Urbino "Carlo Bo"</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17377&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17377">
+University of Victoria</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17385&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17385">
+University of Virginia</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17362&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17362">
+University of Warwick</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17282&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17282">
+University of Washington</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17250&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17250">
+University of Wisconsin Madison</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=19841&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=19841">
+University of York</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=7056&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=7056">
+University of Zurich</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17209&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17209">
+University Southern of California</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17279&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17279">
+University Texas</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=18499&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=18499">
+Uptodate In Medicine MMC</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=1064&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=1064">
+Utenos A. ir M. Miskiniu viesoji biblioteka</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17982&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17982">
+Utrecht University</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17231&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17231">
+Vanderbilt University</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=19735&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=19735">
+Vrije Universiteit Brussel</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17272&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17272">
+Waseda University</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17301&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17301">
+Wayne State University</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=13707&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=13707">
+Weizmann Institute of Science</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=14365&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=14365">
+Western Washington Unversity</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17236&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17236">
+William Marsh Rice University</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=3767&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=3767">
+World Fashion Channel</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17913&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17913">
+Wuhan University</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17802&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17802">
+Xi'an Jiaotong University</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17289&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17289">
+Yale University</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=19775&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=19775">
+Yonsei University</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=19842&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=19842">
+York University</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=5569&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=5569">
+Yulia Scientific Research NFP</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=1041&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=1041">
+Zhejiang University</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=4008&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=4008">
+Абхазский государственный университет</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=3533&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=3533">
+Авдеевский коксохимический завод</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=7592&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=7592">
+Авиагаз-Союз (дочернее предприятие КОКБ "Союз")</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=11899&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=11899">
+Авиамоторный научно-технический комплекс "Союз"</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=3741&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=3741">
+Авиационная компания "Трансаэро"</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=6545&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=6545">
+Авиационный комплекс им. С.В. Ильюшина</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=7456&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=7456">
+Авиационный научно-технический комплекс "Крыло"</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=3522&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=3522">
+Авиационный научно-технический комплекс им. А.Н. Туполева</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=7457&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=7457">
+Авиационный научно-технический комплекс им. О.К. Антонова</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=14725&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=14725">
+Автомобильно-транспортный институт</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=13398&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=13398">
+Автомобильный завод "ГАЗ"</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=19088&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=19088">
+Автономная некоммерческая научно-медицинская организация "Вопросы онкологии"</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17597&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17597">
+Автономная некоммерческая организация дополнительного профессионального образования "ТЕЗИС+"</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=21051&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=21051">
+Автономная некоммерческая организация развития инновационных социальных технологий "Лидеры перемен"</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=20955&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=20955">
+Автономная некоммерческая организация развития новых технологий в области физики и технологии низких температур "Инноватика"</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=8193&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=8193">
+Автономная некоммерческая тренинговая организация "СТД"</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=8513&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=8513">
+Автономное учреждение "ТЕХНОПАРК-МОРДОВИЯ"</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=14753&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=14753">
+Авторское издательство Кузбассвузиздат</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=2554&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=2554">
+Агентство биоинформатики и экологии человека</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=7045&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=7045">
+Агентство государственных услуг</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=9032&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=9032">
+Агентство инвестиций и развития Волгоградской области</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=13782&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=13782">
+Агентство исследований промышленных рисков</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=7461&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=7461">
+Агентство лесного хозяйства по Алтайскому краю и Республике Алтай</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=13117&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=13117">
+Агентство лесного хозяйства по Оренбургской области</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=12289&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=12289">
+Агентство лесного хозяйства по Ульяновской области</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=15680&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=15680">
+Агентство молодежных программ - Магадан</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=14771&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=14771">
+Агентство печати Наука и образование</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=10331&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=10331">
+Агентство по общественному контролю качества образования и развитию карьеры</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=12931&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=12931">
+Агентство по реформированию и финансовому оздоровлению организаций области</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=20047&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=20047">
+Агентство по сохранению историко-культурного наследия Самарской области</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=7462&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=7462">
+Агентство по ядерной и радиационной безопасности Академии наук Республики Таджикистан</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=20232&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=20232">
+Агентство поддержки государственных инициатив</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=1168&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=1168">
+Агентство практического энергосбережения при Координационном совете Центрального федерального округа</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=11389&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=11389">
+Агентство развития информационного общества "РАРИО"</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=18252&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=18252">
+Агентство развития системы физической культуры и спорта</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=20661&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=20661">
+Агентство развития туристического потенциала территорий</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=5068&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=5068">
+Агентство регионального развития Калужской области</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=13064&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=13064">
+Агентство содействия инвестициям Пермского края</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=20027&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=20027">
+Агентство социальных проектов и молодежных инициатив</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=11874&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=11874">
+Агентство стратегических инициатив по продвижению новых проектов</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=6800&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=6800">
+Агинская окружная национальная библиотека им. Ц. Жамцарано</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=4674&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=4674">
+Аграрный научный центр "Донской"</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=18490&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=18490">
+Аграрный университет г. Пловдив</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=9385&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=9385">
+Агробизнестехнопарк Ленинградской области</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=14254&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=14254">
+Агробиотехнологический научно-исследовательский центр МСХ Республики Армения</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=828&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=828">
+Агрофизический научно-исследовательский институт</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=8852&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=8852">
+Агрохолдинг ЭНЕРГОМЕРА</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=5331&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=5331">
+Адвокатская палата города Москвы</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=7463&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=7463">
+Адвокатская палата Иркутской области</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=7464&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=7464">
+Адвокатская палата Московской области</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=7465&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=7465">
+Адвокатская палата Санкт-Петербурга</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=19384&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=19384">
+Адвокатское бюро "Глазов и партнеры"</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=16783&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=16783">
+Адвокатское бюро "Егоров, Пугинский, Афанасьев и Партнеры"</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=20181&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=20181">
+Адвокатское бюро "Миалегис" ("Мои юристы") Краснодарского края</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17826&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17826">
+Адвокатское бюро "Плешаков, Ушкалов и партнеры"</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17666&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17666">
+Адвокатское бюро "Эксиора"</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=19144&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=19144">
+Адвокатское бюро города Москвы "Защита"</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=19553&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=19553">
+Адвокатское бюро Красноярского края "Хорошев и партнеры"</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=18428&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=18428">
+Адвокатское бюро Свердловской области "Юралс Лигал"</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=7466&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=7466">
+Администрация Алтайского края</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=7467&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=7467">
+Администрация Архангельской области</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=7468&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=7468">
+Администрация Астраханской области</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=7469&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=7469">
+Администрация Брянской области</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=7470&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=7470">
+Администрация Владимирской области</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=4858&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=4858">
+Администрация Волгоградской области</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=7471&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=7471">
+Администрация Воронежской области</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=18120&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=18120">
+Администрация Главы Республики Коми</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=4860&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=4860">
+Администрация города Барнаул</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=7472&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=7472">
+Администрация города Белгорода</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=7473&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=7473">
+Администрация города Екатеринбурга</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=4859&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=4859">
+Администрация города Красноярск</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=7474&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=7474">
+Администрация города Перми</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=7475&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=7475">
+Администрация города Таганрога</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=7476&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=7476">
+Администрация города Томска</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=7477&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=7477">
+Администрация городского округа "Город Калининград"</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=7478&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=7478">
+Администрация городского округа Самара</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=8037&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=8037">
+Администрация гражданских аэропортов (аэродромов)</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=4861&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=4861">
+Администрация Иркутской области</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=4862&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=4862">
+Администрация Кемеровской области</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=14686&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=14686">
+Администрация Кологривского муниципального района Костромской области</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=4863&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=4863">
+Администрация Краснодарского края</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=2562&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=2562">
+Администрация Кстовского района Нижегородской области</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=7481&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=7481">
+Администрация Ленинградской области</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=7482&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=7482">
+Администрация Липецкой области</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=7483&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=7483">
+Администрация Люберецкого муниципального района Московской области</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=4864&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=4864">
+Администрация Новосибирской области</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=7484&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=7484">
+Администрация Орловской области</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=7485&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=7485">
+Администрация Пермского края</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=6917&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=6917">
+Администрация Президента Республики Казахстан</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=4865&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=4865">
+Администрация Президента РФ</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=4866&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=4866">
+Администрация Приморского края</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=7487&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=7487">
+Администрация Республики Башкортостан</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=7488&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=7488">
+Администрация Ростовской области</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=7479&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=7479">
+Администрация Санкт-Петербурга</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=7480&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=7480">
+Администрация Свердловской области</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=4867&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=4867">
+Администрация Тамбовской области</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=4868&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=4868">
+Администрация Тверской области</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=4869&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=4869">
+Администрация Томской области</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=7486&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=7486">
+Администрация Чеченской Республики</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=3830&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=3830">
+Адмиралтейские верфи</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=634&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=634">
+Адыгейский государственный университет</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=14073&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=14073">
+Адыгейский научно-исследовательский институт сельского хозяйства</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=14002&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=14002">
+Адыгейский республиканский институт гуманитарных исследований им. Т.М. Керашева</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=7489&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=7489">
+Азербайджанская государственная академия физической культуры и спорта</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17573&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17573">
+Азербайджанская государственная академия художеств</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=6587&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=6587">
+Азербайджанская государственная морская академия</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=18192&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=18192">
+Азербайджанская дипломатическая академия</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=15682&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=15682">
+Азербайджанская инженерная академия</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=14739&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=14739">
+Азербайджанская национальная библиотека им. М.Ф. Ахундова</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=7231&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=7231">
+Азербайджанский государственный аграрный университет</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=2509&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=2509">
+Азербайджанский государственный институт усовершенствования врачей им. А. Алиева</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=7493&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=7493">
+Азербайджанский государственный научно-исследовательский институт ветеринарии</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=2565&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=2565">
+Азербайджанский государственный педагогический университет им. Н. Туси</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=2566&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=2566">
+Азербайджанский государственный университет им. С.М. Кирова</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=7490&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=7490">
+Азербайджанский государственный университет культуры и искусств</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17402&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17402">
+Азербайджанский государственный университет нефти и промышленности</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=2572&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=2572">
+Азербайджанский государственный экономический университет</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=13896&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=13896">
+Азербайджанский западный университет</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=7491&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=7491">
+Азербайджанский институт учителей</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=1765&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=1765">
+Азербайджанский медицинский университет им. Н. Нариманова</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=7492&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=7492">
+Азербайджанский международный университет</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=7496&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=7496">
+Азербайджанский научно-исследовательский институт "Агромеханика"</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=7495&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=7495">
+Азербайджанский научно-исследовательский институт виноградарства и виноделия</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=7499&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=7499">
+Азербайджанский научно-исследовательский институт водных проблем</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=7497&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=7497">
+Азербайджанский научно-исследовательский институт защиты растений</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=7232&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=7232">
+Азербайджанский научно-исследовательский институт экономики и организации сельского хозяйства</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=6832&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=6832">
+Азербайджанский научно-исследовательский институт энергетики и энергетического проектирования</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=20714&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=20714">
+Азербайджанский национально-культурный центр "Чинар"</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=6182&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=6182">
+Азербайджанский технический университет</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17856&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17856">
+Азербайджанский технологический университет</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=2567&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=2567">
+Азербайджанский университет архитектуры и строительства</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=7498&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=7498">
+Азербайджанский университет кооперации</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=4871&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=4871">
+Азербайджанский университет языков</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=19975&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=19975">
+Азиатский медицинский институт им. С. Тентишева</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=14539&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=14539">
+Азово-Черноморский научный центр рыбохозяйственных исследований</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=20454&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=20454">
+Азовский государственный педагогический университет</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17643&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17643">
+Азовский центр помощи детям</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=8088&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=8088">
+Академическая библиотека Таллиннского университета</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=4776&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=4776">
+Академический международный институт</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=15563&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=15563">
+Академический научно-исследовательский институт физических методов лечения, медицинской климатологии и реабилитации им. И.М. Сеченова</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=15344&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=15344">
+Академический центр сертификации и стандартизации продуктов питания</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17725&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17725">
+Академический экономико-правовой институт</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=15426&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=15426">
+Академия "Болашак"</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17614&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17614">
+Академия адвокатуры Украины</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=18470&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=18470">
+Академия АйТи</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17548&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17548">
+Академия акварели и изящных искусств Сергея Андрияки</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=14939&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=14939">
+Академия безопасности гидротехнических сооружений</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=15143&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=15143">
+Академия безопасности и выживания</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17640&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17640">
+Академия бизнеса и инновационных технологий</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=9025&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=9025">
+Академия бизнеса и управления собственностью</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=3667&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=3667">
+Академия военных наук</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=20765&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=20765">
+Академия востоковедения</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=7500&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=7500">
+Академия геополитических проблем</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=7502&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=7502">
+Академия государственного управления при президенте Азербайджанской Республики</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=7510&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=7510">
+Академия государственного управления при президенте Киргизской Республики</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=4876&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=4876">
+Академия государственного управления при президенте Республики Казахстан</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=6250&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=6250">
+Академия государственного управления при Президенте Республики Таджикистан</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=14290&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=14290">
+Академия государственного управления Республики Армения</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=14525&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=14525">
+Академия государственной противопожарной службы</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=20011&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=20011">
+Академия гражданской защиты им. М.Габдуллина МЧС Республики Казахстан</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=18486&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=18486">
+Академия гражданской защиты МЧС ДНР</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=2641&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=2641">
+Академия гражданской защиты МЧС России им. генерал-лейтенанта Д.И. Михайлика</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=7377&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=7377">
+Академия гуманитарных исследований</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=19536&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=19536">
+Академия детской книги "ALTAIR"</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17479&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17479">
+Академия дизайна и технологии "Сымбат"</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=14201&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=14201">
+Академия для одаренных детей (Наяновой)</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=7506&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=7506">
+Академия дополнительного профессионального образования</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=18809&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=18809">
+Академия жизнеобеспечения населения</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=18379&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=18379">
+Академия жилищно-коммунального хозяйства РТ</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=15013&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=15013">
+Академия имиджелогии</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=4877&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=4877">
+Академия инженерных наук им. А.М. Прохорова</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=18375&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=18375">
+Академия инжиниринга нефтяных и газовых месторождений</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=7378&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=7378">
+Академия информатизации образования</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=7379&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=7379">
+Академия информационных технологий в образовании, науке и курортологии</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=19342&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=19342">
+Академия искусств Игоря Бурганова</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=2576&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=2576">
+Академия коммунального хозяйства им. К.Д. Памфилова</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=20577&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=20577">
+Академия коммуникаций Вордшоп</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=2525&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=2525">
+Академия криптографии РФ</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=19648&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=19648">
+Академия лазерной медицины</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=14424&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=14424">
+Академия лидерства и администрирования бизнес-процессов ФНС России - Волга</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=14594&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=14594">
+Академия лидерства и администрирования бизнес-процессов ФНС России - Нева</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=14803&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=14803">
+Академия личностного и корпоративного развития</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=7241&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=7241">
+Академия маркетинга и социально-информационных технологий</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=14882&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=14882">
+Академия МВД Республики Таджикистан</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17620&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17620">
+Академия МВД Республики Узбекистан</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=8121&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=8121">
+Академия медиаиндустрии</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=14697&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=14697">
+Академия Медиации</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=20291&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=20291">
+Академия медико-технических наук</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=18745&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=18745">
+Академия медицинской оптики и оптометрии</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=15294&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=15294">
+Академия менеджмента и бизнес-администрирования</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=11820&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=11820">
+Академия менеджмента и рынка</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=18716&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=18716">
+Академия методического и технического содействия экспертной деятельности</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=14669&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=14669">
+Академия Министерства внутренних дел Киргизской Республики им. генерал-майора милиции Алиева Эргеша Алиевича</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17054&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17054">
+Академия Министерства внутренних дел Республики Беларусь</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=2642&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=2642">
+Академия налоговой полиции Федеральной службы налоговой полиции РФ</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=21017&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=21017">
+Академия наук авиации и воздухоплавания</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=4879&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=4879">
+Академия наук Молдовы</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=20101&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=20101">
+Академия наук Республики Башкортостан</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=8520&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=8520">
+Академия наук Республики Саха (Якутия)</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=14900&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=14900">
+Академия наук Республики Татарстан</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=2643&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=2643">
+Академия наук Республики Узбекистан</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=15293&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=15293">
+Академия наук Чеченской Республики</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=19357&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=19357">
+Академия национального образования и науки</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=7381&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=7381">
+Академия нового мышления</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=15071&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=15071">
+Академия образования Таджикистана</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=2596&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=2596">
+Академия общественных связей</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=19267&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=19267">
+Академия педагогических наук</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=15573&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=15573">
+Академия подготовки главных специалистов</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=7383&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=7383">
+Академия полиции МВД Азербайджанской Республики</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=1260&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=1260">
+Академия последипломного образования</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=20403&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=20403">
+Академия Поток</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=2602&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=2602">
+Академия права и управления Федеральной службы исполнения наказаний</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17955&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17955">
+Академия правоохранительных органов при Генеральной прокуратуре Республики Казахстан</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=10687&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=10687">
+Академия приоритетного образования</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=7504&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=7504">
+Академия проблем безопасности обороны и правопорядка</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=14283&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=14283">
+Академия проблем качества г. Ереван</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=7505&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=7505">
+Академия проблем качества г. Москва</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=19937&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=19937">
+Академия продовольственной безопасности</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17459&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17459">
+Академия профессионального образования</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=19682&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=19682">
+Академия профессиональной переподготовки</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=20425&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=20425">
+Академия профессиональной переподготовки, повышения квалификации и медицинского образования</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=14655&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=14655">
+Академия развития информационного общества</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=18220&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=18220">
+Академия реализации государственной политики и профессионального развития работников образования Министерства просвещения Российской Федерации</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=20188&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=20188">
+Академия регион</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=15123&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=15123">
+Академия Русского балета им. А.Я. Вагановой</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=4041&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=4041">
+Академия социального образования</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=7507&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=7507">
+Академия стандартизации, метрологии и сертификации</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=7508&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=7508">
+Академия сухопутных войск им. гетмана Петра Сагайдачного</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=7509&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=7509">
+Академия сферы социальных отношений</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=14866&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=14866">
+Академия технологии и управления</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=2542&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=2542">
+Академия технологических наук РФ</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=2647&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=2647">
+Академия транспорта РФ</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=804&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=804">
+Академия труда и социальных отношений</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=13849&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=13849">
+Академия туризма и международных отношений</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17608&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17608">
+Академия управления городской средой, градостроительства и печати</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17966&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17966">
+Академия управления и производства</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=1250&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=1250">
+Академия управления МВД России</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=6013&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=6013">
+Академия управления при Президенте Республики Беларусь</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=879&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=879">
+Академия Федеральной службы безопасности РФ</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=15216&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=15216">
+Академия Федеральной службы охраны РФ</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=20570&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=20570">
+Академия физической культуры и массового спорта</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=6285&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=6285">
+Академия хорового искусства им. В.С. Попова</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=19660&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=19660">
+Академия цифровых технологий</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=4522&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=4522">
+Академия электротехнических наук РФ</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=15472&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=15472">
+АКБ "Хамкорбанк" с участием иностранного капитала</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=8341&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=8341">
+Аккумуляторная компания "РИГЕЛЬ"</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17998&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17998">
+Акмолинская областная универсальная научная библиотека им. М. Жумабаева</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=15067&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=15067">
+Аксеновский агропромышленный колледж</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=4883&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=4883">
+Аксима: Консультирование, Исследования, Тренинги</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17480&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17480">
+Актюбинская сельскохозяйственная опытная станция</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=3005&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=3005">
+Актюбинский региональный государственный университет имени К. Жубанова</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17109&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17109">
+Актюбинский университет им. С. Баишева</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=954&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=954">
+Актюбинский филиал Республиканской научно-технической библиотеки</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=17474&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17474">
+Актюбинский юридический институт МВД Республики Казахстан им. М. Букенбаева</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=315&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=315">
+Акустический институт им. акад. Н.Н. Андреева</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=4011&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=4011">
+Акционерная компания "АЛРОСА" (ПАО)</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=9349&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=9349">
+Акционерная компания "Корвет"</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=5691&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=5691">
+Акционерная компания "Транснефтепродукт"</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=7906&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=7906">
+Акционерная компания "Туламашзавод"</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=8519&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=8519">
+Акционерная компания "Якутскэнерго"</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=10269&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=10269">
+Акционерная компания ИНСОЛАР"</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=18114&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=18114">
+Акционерное Общество "Концерн "Моринформсистема-Агат"</a>
+<a href="https://51.159.195.89/org_about.asp?orgsid=6985&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=6985">
+Акционерный банк Кузнецкбизнесбанк</a>
 <a href="https://51.159.195.110/org_about.asp?orgsid=4018&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=4018">
 Алакольский государственный природный заповедник</a>
 <a href="https://51.159.195.110/org_about.asp?orgsid=7677&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=7677">
@@ -5,7 +1485,7 @@
 <a href="https://51.159.195.110/org_about.asp?orgsid=17473&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17473">
 Алматинская академия МВД Республики Казахстан</a>
 <a href="https://51.159.195.110/org_about.asp?orgsid=17176&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=17176">
-Алматинская академия экономики и статистики</a>
+Алматинская академия экономики и статистики</a> 
 <a href="https://51.159.195.110/org_about.asp?orgsid=2660&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=2660">
 Алматинский зооветеринарный институт</a>
 <a href="https://51.159.195.110/org_about.asp?orgsid=4891&amp;__cpo=aHR0cHM6Ly93d3cuZWxpYnJhcnkucnU" __cpp="1" __cporiginalvalueofhref="org_about.asp?orgsid=4891">
