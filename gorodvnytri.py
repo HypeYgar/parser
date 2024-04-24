@@ -195,9 +195,7 @@ class ELibraryScraper:
                         link_to_click.click()
 
                 except Exception as e:
-                    print(f"Ошибка при обработке города '{city_name}': {e}")
-                    send_telegram_document("6988073004:AAGgq7YTG5BUF7P1BM_SFDtIRuLPiJc-8ZE", "-4109363457",
-                                           "city_info.txt", f"Произошла ошибка:")
+                    break
 
     def quit(self):
         """Закрыть браузер после завершения."""
