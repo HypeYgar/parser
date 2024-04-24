@@ -9,6 +9,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.keys import Keys
 from telegram import Bot
 
+
 def send_telegram_message(bot_token, chat_id, message):
     """Функция для отправки сообщения в Telegram."""
     try:
@@ -97,6 +98,10 @@ class ELibraryScraper:
                     search_button2.click()
                     if "Не найдено организаций" in self.driver.page_source:
                         print(f"Организации не найдены для города '{city_name}'")
+                        with open('city_info_error.txt', 'a', encoding='utf-8') as info_file:
+                            info_file.write(f"Организации не найдены для города '{city_name}'\n")
+                            send_telegram_document("6988073004:AAGgq7YTG5BUF7P1BM_SFDtIRuLPiJc-8ZE", "-4109363457",
+                                                   "city_info_error.txt", f"нашел ошибку иди нахуй: ")
                         continue
 
                     time.sleep(3)
@@ -109,7 +114,6 @@ class ELibraryScraper:
 
                     with open('city_info.txt', 'a', encoding='utf-8') as info_file:
                         info_file.write(f"------------------------\n")
-                        info_file.write(f"Город: {city_name}\n")
                         full_name_element = None
                         try:
                             full_name_element = self.wait.until(EC.presence_of_element_located((By.XPATH,
