@@ -95,6 +95,9 @@ class ELibraryScraper:
                     search_button2 = self.wait.until(EC.element_to_be_clickable((By.XPATH,
                                                                                     '/html/body/table/tbody/tr/td/table/tbody/tr/td[2]/table/tbody/tr[3]/td/table[3]/tbody/tr/td[6]/a')))
                     search_button2.click()
+                    if "Не найдено организаций" in self.driver.page_source:
+                        print(f"Организации не найдены для города '{city_name}'")
+                        continue
 
                     time.sleep(3)
 
