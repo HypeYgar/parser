@@ -214,6 +214,10 @@ class ELibraryScraper:
                             address = address_element.text.strip()
                             info_file.write(f"Почтовый адрес: {address}\n\n")
                             print(address)
+                        error_message = f"Машина номер {machine_num}. Скрин {full_name}"
+                        screenshot_path = 'screenshot.png'
+                        pyautogui.screenshot(screenshot_path)
+                        await send_telegram_scrin("6988073004:AAGgq7YTG5BUF7P1BM_SFDtIRuLPiJc-8ZE", "-4123199178", screenshot_path, error_message)
                         info_file.write(f"------------------------\n")
                         # Сохранить номер строки, с которой начнется следующий запуск
                         with open(last_processed_line_file, 'w') as f:
@@ -232,7 +236,7 @@ class ELibraryScraper:
 async def main_script_async():
     while True:
         try:
-            await send_telegram_document("6988073004:AAGgq7YTG5BUF7P1BM_SFDtIRuLPiJc-8ZE", "-4109363457", "city_info.txt", f"Машина номер {machine_num}.браузер включился: ")
+            await send_telegram_message("6988073004:AAGgq7YTG5BUF7P1BM_SFDtIRuLPiJc-8ZE", "-4109363457", f"Машина номер {machine_num}.браузер включился")
             scraper = ELibraryScraper()
             await scraper.open_proxy_site()
             await scraper.handle_consent_dialog()
