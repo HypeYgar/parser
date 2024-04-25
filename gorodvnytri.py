@@ -1,6 +1,6 @@
 import asyncio
 import time
-import traceback
+from io import BytesIO
 from selenium import webdriver
 from selenium.common.exceptions import TimeoutException
 from selenium.webdriver.common.by import By
@@ -8,36 +8,58 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.keys import Keys
 from telegram import Bot
+import pyautogui
+from PIL import Image
 
+machine_num=1
+def count_phrase_occurrences(file_path, phrase):
+    count = 0
+    with open(file_path, 'r', encoding='utf-8') as file:
+        for line in file:
+            if phrase in line:
+                count += 1
+    return count
 
-def send_telegram_message(bot_token, chat_id, message):
+async def send_telegram_message(bot_token, chat_id, message):
     """Функция для отправки сообщения в Telegram."""
     try:
         bot = Bot(token=bot_token)
-        bot.send_message(chat_id=chat_id, text=message)
+        await bot.send_message(chat_id=chat_id, text=message)
     except Exception as e:
         print(f"Ошибка при отправке сообщения в Telegram: {e}")
 
-def send_telegram_document(bot_token, chat_id, document_path, caption=""):
+async def send_telegram_document(bot_token, chat_id, document_path, caption=""):
     """Функция для отправки документа в Telegram."""
     try:
         bot = Bot(token=bot_token)
-        asyncio.run(bot.send_document(chat_id=chat_id, document=open(document_path, 'rb'), caption=caption))
+        await bot.send_document(chat_id=chat_id, document=open(document_path, 'rb'), caption=caption)
     except Exception as e:
         print(f"Ошибка при отправке документа в Telegram: {e}")
+
+async def send_telegram_scrin(bot_token, chat_id, image_path, caption=""):
+    """Функция для отправки изображения (скриншота) в Telegram."""
+    try:
+        bot = Bot(token=bot_token)
+        image = Image.open(image_path)
+        bio = BytesIO()
+        image.save(bio, format='PNG')
+        bio.seek(0)
+        await bot.send_photo(chat_id=chat_id, photo=bio, caption=caption)
+    except Exception as e:
+        print(f"Ошибка при отправке изображения в Telegram: {e}")
 
 class ELibraryScraper:
     def __init__(self):
         self.driver = webdriver.Chrome()
         self.wait = WebDriverWait(self.driver, 10)
 
-    def open_proxy_site(self):
+    async def open_proxy_site(self):
         """Открыть прокси-сайт и перейти на гугл через croxyproxy."""
         self.driver.get("https://www.croxyproxy.net/_ru/")
         google_link = self.wait.until(EC.presence_of_element_located((By.XPATH, '//*[@id="quickLinks"]/a[2]')))
         google_link.click()
 
-    def handle_consent_dialog(self):
+    async def handle_consent_dialog(self):
         """Обработать диалог согласия (если присутствует)."""
         try:
             consent_button = self.wait.until(EC.presence_of_element_located((By.XPATH, '//*[@id="L2AGLb"]')))
@@ -46,7 +68,7 @@ class ELibraryScraper:
         except TimeoutException:
             pass
 
-    def search_elibrary(self):
+    async def search_elibrary(self):
         """Выполнить поиск elibrary.ru и перейти на сайт."""
         search_box = self.wait.until(EC.presence_of_element_located((By.XPATH, '//*[@id="APjFqb"]')))
         search_box.send_keys("https://elibrary.ru")
@@ -55,7 +77,7 @@ class ELibraryScraper:
         elibrary_link = self.wait.until(EC.presence_of_element_located((By.XPATH, '//*[@id="rso"]/div[1]/div/div/div/div/div/div/div/div[1]/div/span/a/h3')))
         elibrary_link.click()
 
-    def login_to_elibrary(self, username, password):
+    async def login_to_elibrary(self, username, password):
         """Авторизация на сайте elibrary.ru."""
         login_field = self.wait.until(EC.presence_of_element_located((By.XPATH, '//*[@id="login"]')))
         login_field.click()
@@ -69,7 +91,7 @@ class ELibraryScraper:
         search_button.click()
         time.sleep(3)
 
-    def search_by_GOROD(self, city_list_file):
+    async def search_by_GOROD(self, city_list_file):
         """Выполнить поиск по названиям городов и сохранить информацию в файл."""
         last_processed_line_file = 'last_processed_line.txt'
 
@@ -100,8 +122,7 @@ class ELibraryScraper:
                         print(f"Организации не найдены для города '{city_name}'")
                         with open('city_info_error.txt', 'a', encoding='utf-8') as info_file:
                             info_file.write(f"Организации не найдены для города '{city_name}'\n")
-                            send_telegram_document("6988073004:AAGgq7YTG5BUF7P1BM_SFDtIRuLPiJc-8ZE", "-4109363457",
-                                                   "city_info_error.txt", f"нашел ошибку иди нахуй: ")
+                            await send_telegram_document("6988073004:AAGgq7YTG5BUF7P1BM_SFDtIRuLPiJc-8ZE", "-4109363457", "city_info_error.txt", f"Машина номер {machine_num}.нашел ошибку иди нахуй: ")
                         continue
 
                     time.sleep(3)
@@ -208,24 +229,30 @@ class ELibraryScraper:
         """Закрыть браузер после завершения."""
         self.driver.quit()
 
-def main_script():
+async def main_script_async():
     while True:
         try:
-            send_telegram_document("6988073004:AAGgq7YTG5BUF7P1BM_SFDtIRuLPiJc-8ZE", "-4109363457", "city_info.txt", f"браузер включился: ")
+            await send_telegram_document("6988073004:AAGgq7YTG5BUF7P1BM_SFDtIRuLPiJc-8ZE", "-4109363457", "city_info.txt", f"Машина номер {machine_num}.браузер включился: ")
             scraper = ELibraryScraper()
-            scraper.open_proxy_site()
-            scraper.handle_consent_dialog()
-            scraper.search_elibrary()
-            scraper.login_to_elibrary(username="Evanepon", password="LegoEva210877")
-            scraper.search_by_GOROD("kaif.txt")
+            await scraper.open_proxy_site()
+            await scraper.handle_consent_dialog()
+            await scraper.search_elibrary()
+            await scraper.login_to_elibrary(username="Evanepon", password="LegoEva210877")
+            await scraper.search_by_GOROD("kaif.txt")
         except Exception as e:
-            print(f"Произошла ошибка: {e}")
-            send_telegram_document("6988073004:AAGgq7YTG5BUF7P1BM_SFDtIRuLPiJc-8ZE", "-4109363457", "city_info.txt", f"Произошла ошибка:")
+            error_message = f"Машина номер {machine_num}.Произошла ошибка: {e}"
+            print(error_message)
+            screenshot_path = 'screenshot.png'
+            pyautogui.screenshot(screenshot_path)
+            await send_telegram_scrin("6988073004:AAGgq7YTG5BUF7P1BM_SFDtIRuLPiJc-8ZE", "-4109363457", screenshot_path, error_message)
         finally:
             scraper.quit()
-            send_telegram_document("6988073004:AAGgq7YTG5BUF7P1BM_SFDtIRuLPiJc-8ZE", "-4109363457", "city_info.txt", f"браузер выключился: ")
+            phrase_count = count_phrase_occurrences("city_info.txt", "Полное название:")
+            await send_telegram_document("6988073004:AAGgq7YTG5BUF7P1BM_SFDtIRuLPiJc-8ZE", "-4109363457", "city_info.txt",
+                                         f"Машина номер {machine_num}.браузер выключился.  Скок он спарсил: {phrase_count}")
 
+def main():
+    asyncio.run(main_script_async())
 
 if __name__ == "__main__":
-    main_script()
-
+    main()
