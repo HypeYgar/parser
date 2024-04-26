@@ -248,7 +248,6 @@ async def main_script_async():
         finally:
             scraper.quit()
             phrase_count = count_phrase_occurrences("city_info.txt", "Полное название:")
-            current_url = scraper.get_current_url()
             await send_telegram_document("6988073004:AAGgq7YTG5BUF7P1BM_SFDtIRuLPiJc-8ZE", "-4109363457", "city_info.txt",
                                          f"Машина номер {machine_num}.браузер выключился.  Скок он спарсил: {phrase_count} ")
 
