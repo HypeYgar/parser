@@ -1,8 +1,9 @@
 import asyncio
+import re
 import time
 from io import BytesIO
 from selenium import webdriver
-from selenium.common.exceptions import TimeoutException
+from selenium.common.exceptions import TimeoutException, NoSuchElementException
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
@@ -11,7 +12,7 @@ from telegram import Bot
 import pyautogui
 from PIL import Image
 
-machine_num=1
+machine_num="комп евы"
 def count_phrase_occurrences(file_path, phrase):
     count = 0
     with open(file_path, 'r', encoding='utf-8') as file:
@@ -54,11 +55,35 @@ class ELibraryScraper:
         self.driver = webdriver.Chrome()
         self.wait = WebDriverWait(self.driver, 5)
 
-    async def open_proxy_site(self):
+    async def open_proxy_site_var1(self):
+        """Открыть прокси-сайт и перейти на гугл через croxyproxy."""
+        self.driver.get("https://www.4everproxy.com/")
+        search_box = self.wait.until(EC.presence_of_element_located((By.XPATH, '//*[@id="content"]/section[1]/div[1]/div[2]/div/div/form/div[1]/input[1]')))
+        search_box.send_keys("https://elibrary.ru")
+        search_box.send_keys(Keys.ENTER)
+        time.sleep(3)
+
+    async def open_proxy_site_var2(self):
+        """Открыть прокси-сайт и перейти на гугл через croxyproxy."""
+        self.driver.get("https://plainproxies.com/resources/free-web-proxy")
+        search_box = self.wait.until(EC.presence_of_element_located((By.XPATH, '/html/body/div[1]/section[1]/div/div/div/form/div[2]/input')))
+        search_box.send_keys("https://elibrary.ru")
+        search_box.send_keys(Keys.ENTER)
+        time.sleep(3)
+
+
+    async def open_proxy_site_var3(self):
         """Открыть прокси-сайт и перейти на гугл через croxyproxy."""
         self.driver.get("https://www.croxyproxy.net/_ru/")
         google_link = self.wait.until(EC.presence_of_element_located((By.XPATH, '//*[@id="quickLinks"]/a[2]')))
         google_link.click()
+        search_box = self.wait.until(EC.presence_of_element_located((By.XPATH, '//*[@id="APjFqb"]')))
+        search_box.send_keys("https://elibrary.ru")
+        search_box.send_keys(Keys.ENTER)
+        time.sleep(3)
+        elibrary_link = self.wait.until(EC.presence_of_element_located(
+            (By.XPATH, '//*[@id="rso"]/div[1]/div/div/div/div/div/div/div/div[1]/div/span/a/h3')))
+        elibrary_link.click()
 
     async def handle_consent_dialog(self):
         """Обработать диалог согласия (если присутствует)."""
@@ -68,15 +93,6 @@ class ELibraryScraper:
             time.sleep(3)
         except TimeoutException:
             pass
-
-    async def search_elibrary(self):
-        """Выполнить поиск elibrary.ru и перейти на сайт."""
-        search_box = self.wait.until(EC.presence_of_element_located((By.XPATH, '//*[@id="APjFqb"]')))
-        search_box.send_keys("https://elibrary.ru")
-        search_box.send_keys(Keys.ENTER)
-        time.sleep(3)
-        elibrary_link = self.wait.until(EC.presence_of_element_located((By.XPATH, '//*[@id="rso"]/div[1]/div/div/div/div/div/div/div/div[1]/div/span/a/h3')))
-        elibrary_link.click()
 
     async def login_to_elibrary(self, username, password):
         """Авторизация на сайте elibrary.ru."""
@@ -225,17 +241,35 @@ class ELibraryScraper:
                     break
 
     def quit(self):
-        """Закрыть браузер после завершения."""
         self.driver.quit()
 
+    async def check_captcha_page(self):
+        """Проверить, открыта ли страница с капчей."""
+        try:
+            self.driver.find_element(By.XPATH, '//img[@src="/images/robot2.png"]')
+            return True
+        except NoSuchElementException:
+            return False
+
+
 async def main_script_async():
+    proxies = [ELibraryScraper.open_proxy_site_var1, ELibraryScraper.open_proxy_site_var2,
+               ELibraryScraper.open_proxy_site_var3]
+    proxy_index = 0
+    captcha_count = 0
+    print(captcha_count)
     while True:
         try:
             await send_telegram_message("6988073004:AAGgq7YTG5BUF7P1BM_SFDtIRuLPiJc-8ZE", "-4109363457", f"Машина номер {machine_num}.браузер включился")
             scraper = ELibraryScraper()
-            await scraper.open_proxy_site()
+            await proxies[proxy_index](scraper)
             await scraper.handle_consent_dialog()
-            await scraper.search_elibrary()
+            if await scraper.check_captcha_page():
+                captcha_count += 1
+                if captcha_count > 1:
+                    proxy_index = (proxy_index + 1) % len(proxies)
+                    captcha_count = 0
+                continue
             await scraper.login_to_elibrary(username="Evanepon", password="LegoEva210877")
             await scraper.search_by_GOROD("kaif.txt")
         except Exception as e:
@@ -250,6 +284,7 @@ async def main_script_async():
             phrase_count = count_phrase_occurrences("city_info.txt", "Полное название:")
             await send_telegram_document("6988073004:AAGgq7YTG5BUF7P1BM_SFDtIRuLPiJc-8ZE", "-4109363457", "city_info.txt",
                                          f"Машина номер {machine_num}.браузер выключился.  Скок он спарсил: {phrase_count} ")
+
 
 def main():
     asyncio.run(main_script_async())
