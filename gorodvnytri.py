@@ -48,10 +48,11 @@ async def send_telegram_scrin(bot_token, chat_id, image_path, caption=""):
     except Exception as e:
         print(f"Ошибка при отправке изображения в Telegram: {e}")
 
+
 class ELibraryScraper:
     def __init__(self):
         self.driver = webdriver.Chrome()
-        self.wait = WebDriverWait(self.driver, 10)
+        self.wait = WebDriverWait(self.driver, 5)
 
     async def open_proxy_site(self):
         """Открыть прокси-сайт и перейти на гугл через croxyproxy."""
@@ -64,7 +65,7 @@ class ELibraryScraper:
         try:
             consent_button = self.wait.until(EC.presence_of_element_located((By.XPATH, '//*[@id="L2AGLb"]')))
             consent_button.click()
-            time.sleep(5)
+            time.sleep(3)
         except TimeoutException:
             pass
 
@@ -73,7 +74,7 @@ class ELibraryScraper:
         search_box = self.wait.until(EC.presence_of_element_located((By.XPATH, '//*[@id="APjFqb"]')))
         search_box.send_keys("https://elibrary.ru")
         search_box.send_keys(Keys.ENTER)
-        time.sleep(5)
+        time.sleep(3)
         elibrary_link = self.wait.until(EC.presence_of_element_located((By.XPATH, '//*[@id="rso"]/div[1]/div/div/div/div/div/div/div/div[1]/div/span/a/h3')))
         elibrary_link.click()
 
@@ -122,7 +123,7 @@ class ELibraryScraper:
                         print(f"Организации не найдены для города '{city_name}'")
                         with open('city_info_error.txt', 'a', encoding='utf-8') as info_file:
                             info_file.write(f"Организации не найдены для города '{city_name}'\n")
-                            await send_telegram_document("6988073004:AAGgq7YTG5BUF7P1BM_SFDtIRuLPiJc-8ZE", "-4109363457", "city_info_error.txt", f"Машина номер {machine_num}.нашел ошибку иди нахуй: ")
+                            await send_telegram_document("6988073004:AAGgq7YTG5BUF7P1BM_SFDtIRuLPiJc-8ZE", "-4109363457", "city_info_error.txt", f"Машина номер {machine_num}.нашел ошибку : ")
                         continue
 
                     time.sleep(3)
@@ -130,8 +131,6 @@ class ELibraryScraper:
                     link_to_click = self.wait.until(EC.element_to_be_clickable((By.XPATH,
                                                                                 '/html/body/table/tbody/tr/td/table/tbody/tr/td[2]/table/tbody/tr[3]/td/table[4]/tbody/tr[2]/td[2]/font/a')))
                     link_to_click.click()
-
-                    time.sleep(3)
 
                     with open('city_info.txt', 'a', encoding='utf-8') as info_file:
                         info_file.write(f"------------------------\n")
@@ -214,10 +213,6 @@ class ELibraryScraper:
                             address = address_element.text.strip()
                             info_file.write(f"Почтовый адрес: {address}\n\n")
                             print(address)
-                        error_message = f"Машина номер {machine_num}. Скрин {full_name}"
-                        screenshot_path = 'screenshot.png'
-                        pyautogui.screenshot(screenshot_path)
-                        await send_telegram_scrin("6988073004:AAGgq7YTG5BUF7P1BM_SFDtIRuLPiJc-8ZE", "-4123199178", screenshot_path, error_message)
                         info_file.write(f"------------------------\n")
                         # Сохранить номер строки, с которой начнется следующий запуск
                         with open(last_processed_line_file, 'w') as f:
@@ -249,11 +244,13 @@ async def main_script_async():
             screenshot_path = 'screenshot.png'
             pyautogui.screenshot(screenshot_path)
             await send_telegram_scrin("6988073004:AAGgq7YTG5BUF7P1BM_SFDtIRuLPiJc-8ZE", "-4109363457", screenshot_path, error_message)
+            scraper.quit()
         finally:
             scraper.quit()
             phrase_count = count_phrase_occurrences("city_info.txt", "Полное название:")
+            current_url = scraper.get_current_url()
             await send_telegram_document("6988073004:AAGgq7YTG5BUF7P1BM_SFDtIRuLPiJc-8ZE", "-4109363457", "city_info.txt",
-                                         f"Машина номер {machine_num}.браузер выключился.  Скок он спарсил: {phrase_count}")
+                                         f"Машина номер {machine_num}.браузер выключился.  Скок он спарсил: {phrase_count} ")
 
 def main():
     asyncio.run(main_script_async())
