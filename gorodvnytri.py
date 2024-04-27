@@ -12,7 +12,7 @@ from telegram import Bot
 import pyautogui
 from PIL import Image
 
-machine_num=1
+machine_num="svirina_.ag"
 def count_phrase_occurrences(file_path, phrase):
     count = 0
     with open(file_path, 'r', encoding='utf-8') as file:
@@ -252,7 +252,7 @@ async def main_script_async():
             await send_telegram_message("6988073004:AAGgq7YTG5BUF7P1BM_SFDtIRuLPiJc-8ZE", "-4109363457", f"Машина номер {machine_num}.браузер включился")
             scraper = ELibraryScraper()
             await scraper.open_proxy_site()
-            await scraper.login_to_elibrary(username="Evanepon", password="LegoEva210877")
+            await scraper.login_to_elibrary(username="svirina_.ag", password="BrigadaEzhikov")
             await scraper.search_by_GOROD("kaif.txt")
         except Exception as e:
             error_message = f"Машина номер {machine_num}.Произошла ошибка: {e}"
